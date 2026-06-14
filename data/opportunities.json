@@ -977,5 +977,106 @@
     "added_date": "2026-06-13",
     "source": "PostgraduateStudentships",
     "qs_rank": 421
+  },
+  {
+    "id": "edinburgh-economics-phd-2026",
+    "title": "Fully Funded PhD in Economics",
+    "university": "University of Edinburgh",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "region": "Europe",
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Data Science"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "UK",
+      "fully-funded",
+      "international"
+    ],
+    "stipend": "Full funding (tuition + stipend)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "Various faculty",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "Fully funded PhD opportunities in Economics at the University of Edinburgh for September 2026 entry. Open to both international and UK students. Covers economics, econometrics, and data-driven research. Strong research environment with internationally recognized faculty.",
+    "url": "https://www.ed.ac.uk/economics",
+    "added_date": "2026-06-14",
+    "source": "LinkedIn",
+    "qs_rank": 27
+  },
+  {
+    "id": "phdscanner-climate-real-estate-2026",
+    "title": "PhD in Climate Risk & Real Estate Finance (Agent-Based Modeling)",
+    "university": "PhDScanner — Multiple European Universities",
+    "country": "Europe",
+    "flag": "🇪🇺",
+    "region": "Europe",
+    "field": [
+      "Climate Economics",
+      "Finance",
+      "Data Science",
+      "Real Estate"
+    ],
+    "tags": [
+      "climate-risk",
+      "real-estate",
+      "agent-based-modeling",
+      "finance",
+      "interdisciplinary"
+    ],
+    "stipend": "Fully funded (varies by host institution)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "Fully funded PhD exploring climate risks' impact on real estate and mortgage portfolios. Candidates should have agent-based modeling expertise. Listed among 24 Climate Change & Sustainability PhD positions on PhDScanner. Check individual listings for specific universities and deadlines.",
+    "url": "https://www.phdscanner.com/phd-vacancies/standard/discipline/Climate-Change-and-Sustainability",
+    "added_date": "2026-06-14",
+    "source": "PhDScanner",
+    "qs_rank": null
+  },
+  {
+    "id": "wascal-climate-economics-phd-2026",
+    "title": "PhD Programme in Climate Change Economics",
+    "university": "WASCAL (West African Science Service Centre)",
+    "country": "West Africa (Multi-country)",
+    "flag": "🌍",
+    "region": "Africa",
+    "field": [
+      "Climate Economics",
+      "Environmental Economics",
+      "Climate Policy"
+    ],
+    "tags": [
+      "climate",
+      "economics",
+      "West-Africa",
+      "BMBF",
+      "fully-funded",
+      "developing-countries"
+    ],
+    "stipend": "Fully funded (German BMBF sponsorship)",
+    "deadline": "",
+    "deadline_type": "fixed",
+    "status": "open",
+    "supervisor": "WASCAL faculty across 13 partner universities",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "Program operates across 11 West African member countries",
+    "description": "WASCAL's PhD Programme in Climate Change Economics, sponsored by the German Federal Ministry of Education and Research (BMBF). Covers climate economics, adaptation research, and land use management across 13 West African partner universities. Focus on building scientific capacity in climate, natural and social sciences.",
+    "url": "https://wascal.org/call-for-applications-phd-programme-in-climate-change-economics/",
+    "added_date": "2026-06-14",
+    "source": "WASCAL",
+    "qs_rank": null
   }
 ]
