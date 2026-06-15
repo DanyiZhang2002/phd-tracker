@@ -388,15 +388,15 @@
       "multi-country"
     ],
     "stipend": "MSCA doctoral salary (varies by host country)",
-    "deadline": "",
-    "deadline_type": "rolling",
-    "status": "open",
+    "deadline": "2026-04-01",
+    "deadline_type": "fixed",
+    "status": "upcoming",
     "supervisor": "Nacim Ramdani (Coordinator, University of Orléans)",
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "15 fully funded PhD positions across Europe under Marie Skłodowska-Curie Actions (Horizon Europe). Focus on resilient cyber-physical infrastructures — energy systems, water networks, transportation. Topics include AI, control systems, cybersecurity, and human-centered design. International secondments included.",
-    "url": "https://euraxess.ec.europa.eu/worldwide/india/news/europe-15-fully-funded-phd-positions-computer-science-ai-control-systems",
+    "description": "15 fully funded PhD positions across Europe under Marie Skłodowska-Curie Actions (Horizon Europe). Focus on resilient cyber-physical infrastructures — energy systems, water networks, transportation. Topics include AI, control systems, cybersecurity, and human-centered design. International secondments included. Start Sep 2026.",
+    "url": "https://spring-project.eu",
     "added_date": "2026-06-12",
     "source": "EURAXESS",
     "qs_rank": null
@@ -1077,6 +1077,41 @@
     "url": "https://wascal.org/call-for-applications-phd-programme-in-climate-change-economics/",
     "added_date": "2026-06-14",
     "source": "WASCAL",
+    "qs_rank": null
+  },
+  {
+    "id": "cerge-ei-economics-phd-2027",
+    "title": "PhD in Economics",
+    "university": "CERGE-EI (Charles University & Economics Institute)",
+    "country": "Czech Republic",
+    "flag": "🇨🇿",
+    "region": "Europe",
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Macroeconomics",
+      "Microeconomics"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "Czech-Republic",
+      "fully-funded",
+      "international",
+      "top-program"
+    ],
+    "stipend": "Fully funded (covers tuition + living stipend)",
+    "deadline": "",
+    "deadline_type": "annual",
+    "status": "open",
+    "supervisor": "Various faculty",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "Fully funded PhD in Economics at CERGE-EI, a joint workplace of Charles University in Prague and the Economics Institute of the Czech Academy of Sciences. Internationally recognized program with rigorous coursework and original research. Graduates succeed at leading universities, central banks, international organisations. Multiple application rounds per year.",
+    "url": "https://www.cerge-ei.cz/phd-in-economics/",
+    "added_date": "2026-06-15",
+    "source": "INOMICS",
     "qs_rank": null
   }
 ]
