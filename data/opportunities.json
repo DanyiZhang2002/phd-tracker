@@ -6,18 +6,8 @@
     "country": "Switzerland",
     "flag": "🇨🇭",
     "region": "Europe",
-    "field": [
-      "Environmental Economics",
-      "Climate Policy",
-      "Political Economy"
-    ],
-    "tags": [
-      "climate",
-      "policy",
-      "political-economy",
-      "quantitative",
-      "switzerland"
-    ],
+    "field": ["Environmental Economics", "Climate Policy", "Political Economy"],
+    "tags": ["climate", "policy", "political-economy", "quantitative", "switzerland"],
     "stipend": "CHF 61,000–64,000/year",
     "deadline": "2026-06-21",
     "deadline_type": "fixed",
@@ -39,19 +29,8 @@
     "country": "Austria",
     "flag": "🇦🇹",
     "region": "Europe",
-    "field": [
-      "Environmental Science",
-      "Climate Policy",
-      "Sustainability"
-    ],
-    "tags": [
-      "environment",
-      "climate",
-      "GIS",
-      "sustainability",
-      "austria",
-      "fully-funded"
-    ],
+    "field": ["Environmental Science", "Climate Policy", "Sustainability"],
+    "tags": ["environment", "climate", "GIS", "sustainability", "austria", "fully-funded"],
     "stipend": "Full tuition + living allowance + health insurance",
     "deadline": "2027-02-04",
     "deadline_type": "fixed",
@@ -73,18 +52,8 @@
     "country": "Netherlands",
     "flag": "🇳🇱",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Data Science",
-      "Econometrics"
-    ],
-    "tags": [
-      "economics",
-      "data-science",
-      "econometrics",
-      "netherlands",
-      "fully-funded"
-    ],
+    "field": ["Economics", "Data Science", "Econometrics"],
+    "tags": ["economics", "data-science", "econometrics", "netherlands", "fully-funded"],
     "stipend": "€750–1,000/month (MRes) + full PhD funding",
     "deadline": "2026-06-15",
     "deadline_type": "rolling",
@@ -106,18 +75,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Computer Science",
-      "Economics",
-      "Data Science"
-    ],
-    "tags": [
-      "computer-science",
-      "economics",
-      "AI",
-      "italy",
-      "interdisciplinary"
-    ],
+    "field": ["Computer Science", "Economics", "Data Science"],
+    "tags": ["computer-science", "economics", "AI", "italy", "interdisciplinary"],
     "stipend": "~€16,000/year",
     "deadline": "2026-09-01",
     "deadline_type": "fixed",
@@ -126,7 +85,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "38 fully funded PhD scholarships across 4 tracks including Computer Science (AI/ML focus) and Regional Science & Economic Geography. Small elite research institute in L'Aquila, Italy. 100% fully funded, interdisciplinary environment. Watch for 2026/2027 cycle.",
+    "description": "38 fully funded PhD scholarships across 4 tracks including Computer Science (AI/ML focus) and Regional Science & Economic Geography. Small elite research institute in L'Aquila, Italy. 100% fully funded, interdisciplinary environment.",
     "url": "https://gssi.it",
     "added_date": "2026-06-11",
     "source": "FindAPhD",
@@ -139,18 +98,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Data Science",
-      "Decision Science"
-    ],
-    "tags": [
-      "economics",
-      "data-science",
-      "behavioral",
-      "italy",
-      "quantitative"
-    ],
+    "field": ["Economics", "Data Science", "Decision Science"],
+    "tags": ["economics", "data-science", "behavioral", "italy", "quantitative"],
     "stipend": "~€16,000/year",
     "deadline": "2027-06-01",
     "deadline_type": "fixed",
@@ -159,7 +108,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in Economics, Applied Data Science and Decision Sciences at IMT Lucca. Covers network analysis, behavioral economics, quantitative methods. 6 fully funded places, 3-4 year program. English only, international students welcome. Next cycle ~2027.",
+    "description": "Fully funded PhD in Economics, Applied Data Science and Decision Sciences at IMT Lucca. Covers network analysis, behavioral economics, quantitative methods. 6 fully funded places, 3-4 year program. English only, international students welcome.",
     "url": "https://eads.imtlucca.it",
     "added_date": "2026-06-11",
     "source": "FindAPhD",
@@ -172,19 +121,8 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": [
-      "Data Science",
-      "NLP",
-      "AI"
-    ],
-    "tags": [
-      "NLP",
-      "LLM",
-      "AI",
-      "data-science",
-      "denmark",
-      "fully-funded"
-    ],
+    "field": ["Data Science", "NLP", "AI"],
+    "tags": ["NLP", "LLM", "AI", "data-science", "denmark", "fully-funded"],
     "stipend": "DKK ~35,000/month",
     "deadline": "2026-12-01",
     "deadline_type": "rolling",
@@ -193,7 +131,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD positions at CopeNLU Lab under Prof. Isabelle Augenstein (top NLP researcher). Focus on large language model safety, explainable AI, and NLP. Funded by Danish Independent Research Fund. Positions open periodically — watch the lab website.",
+    "description": "Fully funded PhD positions at CopeNLU Lab under Prof. Isabelle Augenstein (top NLP researcher). Focus on large language model safety, explainable AI, and NLP. Funded by Danish Independent Research Fund.",
     "url": "https://copenlu.github.io",
     "added_date": "2026-06-11",
     "source": "FindAPhD",
@@ -206,18 +144,8 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": [
-      "Data Science",
-      "Big Data",
-      "AI"
-    ],
-    "tags": [
-      "data-science",
-      "big-data",
-      "AI",
-      "denmark",
-      "interdisciplinary"
-    ],
+    "field": ["Data Science", "Big Data", "AI"],
+    "tags": ["data-science", "big-data", "AI", "denmark", "interdisciplinary"],
     "stipend": "DKK ~35,000/month",
     "deadline": "2026-12-01",
     "deadline_type": "annual",
@@ -226,7 +154,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Annual PhD fellowship program from the Danish Data Science Academy covering data science applications across multiple disciplines. Multiple universities. Strong interdisciplinary focus. Excellent stipend by European standards.",
+    "description": "Annual PhD fellowship program from the Danish Data Science Academy covering data science applications across multiple disciplines. Multiple universities. Strong interdisciplinary focus.",
     "url": "https://ddsa.dk",
     "added_date": "2026-06-11",
     "source": "FindAPhD",
@@ -239,17 +167,8 @@
     "country": "Australia",
     "flag": "🇦🇺",
     "region": "Australia",
-    "field": [
-      "Environmental Science",
-      "Sustainability"
-    ],
-    "tags": [
-      "environment",
-      "sustainability",
-      "australia",
-      "RTP",
-      "fully-funded"
-    ],
+    "field": ["Environmental Science", "Sustainability"],
+    "tags": ["environment", "sustainability", "australia", "RTP", "fully-funded"],
     "stipend": "AUD ~35,000/year + tuition waiver",
     "deadline": "2026-10-31",
     "deadline_type": "rolling",
@@ -258,7 +177,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD under the Australian Government Research Training Program (RTP) scholarship. Covers tuition fees + living stipend. Environmental science focus with dual-degree options. Open to international students.",
+    "description": "Fully funded PhD under the Australian Government Research Training Program (RTP) scholarship. Covers tuition fees + living stipend. Environmental science focus with dual-degree options.",
     "url": "https://flinders.edu.au/research/degrees/scholarships",
     "added_date": "2026-06-11",
     "source": "FindAPhD",
@@ -271,19 +190,8 @@
     "country": "Switzerland",
     "flag": "🇨🇭",
     "region": "Europe",
-    "field": [
-      "Agricultural Economics",
-      "Climate Policy",
-      "Sustainability"
-    ],
-    "tags": [
-      "climate",
-      "agriculture",
-      "economics",
-      "policy",
-      "switzerland",
-      "fully-funded"
-    ],
+    "field": ["Agricultural Economics", "Climate Policy", "Sustainability"],
+    "tags": ["climate", "agriculture", "economics", "policy", "switzerland", "fully-funded"],
     "stipend": "Competitive ETH Zürich salary (4-year full funding)",
     "deadline": "2026-06-26",
     "deadline_type": "fixed",
@@ -292,7 +200,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded 4-year PhD in the Agricultural Economics and Policy Group at ETH Zürich, part of the national ACHIEVE Project on net-zero emissions in Swiss agri-food systems. Research on reducing GHG emissions and developing evidence-based climate policy solutions.",
+    "description": "Fully funded 4-year PhD in the Agricultural Economics and Policy Group at ETH Zürich, part of the national ACHIEVE Project on net-zero emissions in Swiss agri-food systems.",
     "url": "https://jobs.ethz.ch",
     "added_date": "2026-06-12",
     "source": "OpportunitiesForYouth",
@@ -305,19 +213,8 @@
     "country": "Switzerland",
     "flag": "🇨🇭",
     "region": "Europe",
-    "field": [
-      "Innovation Economics",
-      "Climate Policy",
-      "Technology Policy"
-    ],
-    "tags": [
-      "climate",
-      "innovation",
-      "economics",
-      "policy",
-      "switzerland",
-      "NCCR"
-    ],
+    "field": ["Innovation Economics", "Climate Policy", "Technology Policy"],
+    "tags": ["climate", "innovation", "economics", "policy", "switzerland", "NCCR"],
     "stipend": "Full doctoral student salary (3-year position)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -326,7 +223,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Full PhD position in the Energy and Technology Policy Group at ETH Zürich, part of NCCR CLIM+. Research on how knowledge localization and innovation can address supply chain disruptions from climate extremes. Empirical studies with patents and innovation data.",
+    "description": "Full PhD position in the Energy and Technology Policy Group at ETH Zürich, part of NCCR CLIM+. Research on how knowledge localization and innovation can address supply chain disruptions from climate extremes.",
     "url": "https://epg.ethz.ch/",
     "added_date": "2026-06-12",
     "source": "TheEconomicMisfit",
@@ -339,19 +236,8 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "AI Ethics"
-    ],
-    "tags": [
-      "AI",
-      "ethics",
-      "fairness",
-      "NLP",
-      "UK",
-      "fully-funded"
-    ],
+    "field": ["Artificial Intelligence", "Machine Learning", "AI Ethics"],
+    "tags": ["AI", "ethics", "fairness", "NLP", "UK", "fully-funded"],
     "stipend": "£21,000/year tax-free stipend + full tuition coverage",
     "deadline": "",
     "deadline_type": "rolling",
@@ -360,7 +246,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD backed by UK Innovation and BHE Uni. Research on building unbiased AI systems for fair university admissions, with focus on ethical AI and bias mitigation. Real-world testing on actual admissions systems. Open to international students.",
+    "description": "Fully funded PhD backed by UK Innovation and BHE Uni. Research on building unbiased AI systems for fair university admissions, with focus on ethical AI and bias mitigation.",
     "url": "https://bheuni.io/blog/fully-funded-phd-in-ai-for-international-students",
     "added_date": "2026-06-12",
     "source": "BHE Uni",
@@ -373,20 +259,8 @@
     "country": "Europe (Multi-country)",
     "flag": "🇪🇺",
     "region": "Europe",
-    "field": [
-      "Computer Science",
-      "Artificial Intelligence",
-      "Control Systems",
-      "Cybersecurity"
-    ],
-    "tags": [
-      "AI",
-      "cybersecurity",
-      "control-systems",
-      "Horizon Europe",
-      "MSCA",
-      "multi-country"
-    ],
+    "field": ["Computer Science", "Artificial Intelligence", "Control Systems", "Cybersecurity"],
+    "tags": ["AI", "cybersecurity", "control-systems", "Horizon Europe", "MSCA", "multi-country"],
     "stipend": "MSCA doctoral salary (varies by host country)",
     "deadline": "2026-04-01",
     "deadline_type": "fixed",
@@ -395,7 +269,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "15 fully funded PhD positions across Europe under Marie Skłodowska-Curie Actions (Horizon Europe). Focus on resilient cyber-physical infrastructures — energy systems, water networks, transportation. Topics include AI, control systems, cybersecurity, and human-centered design. International secondments included. Start Sep 2026.",
+    "description": "15 fully funded PhD positions across Europe under Marie Skłodowska-Curie Actions (Horizon Europe). Focus on resilient cyber-physical infrastructures.",
     "url": "https://spring-project.eu",
     "added_date": "2026-06-12",
     "source": "EURAXESS",
@@ -408,19 +282,8 @@
     "country": "France",
     "flag": "🇫🇷",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Econometrics",
-      "Computational Economics"
-    ],
-    "tags": [
-      "economics",
-      "econometrics",
-      "complexity",
-      "France",
-      "fully-funded",
-      "international"
-    ],
+    "field": ["Economics", "Econometrics", "Computational Economics"],
+    "tags": ["economics", "econometrics", "complexity", "France", "fully-funded", "international"],
     "stipend": "€2,836/month gross (12 months/year, 4 years)",
     "deadline": "2026-05-15",
     "deadline_type": "fixed",
@@ -429,7 +292,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded 4-year International PhD in Economics combining micro/macro, econometrics, and computational/complexity economics. Year 1 at Scuola Superiore Sant'Anna (Pisa, Italy), semester at Côte d'Azur, research at GREDEG. Co-tutelle opportunities. Next cycle expected 2027.",
+    "description": "Fully funded 4-year International PhD in Economics combining micro/macro, econometrics, and computational/complexity economics. Year 1 at Scuola Superiore Sant'Anna (Pisa, Italy).",
     "url": "https://www.globalsouthopportunities.com/2026/03/21/phd-35/",
     "added_date": "2026-06-12",
     "source": "GlobalSouthOpportunities",
@@ -442,19 +305,8 @@
     "country": "Australia",
     "flag": "🇦🇺",
     "region": "Australia",
-    "field": [
-      "Climate Science",
-      "Human Geography",
-      "Migration Studies"
-    ],
-    "tags": [
-      "climate",
-      "migration",
-      "Australia",
-      "ARC-funded",
-      "interdisciplinary",
-      "fully-funded"
-    ],
+    "field": ["Climate Science", "Human Geography", "Migration Studies"],
+    "tags": ["climate", "migration", "Australia", "ARC-funded", "interdisciplinary", "fully-funded"],
     "stipend": "AUD ~38,500/year (pro rata)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -463,7 +315,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in an ARC Discovery Project on climate-related community relocation. Research on social, political, and ethical dimensions of climate displacement, comparative case studies, policy frameworks, and Indigenous perspectives. Flexible research design within the project scope.",
+    "description": "Fully funded PhD in an ARC Discovery Project on climate-related community relocation. Research on social, political, and ethical dimensions of climate displacement.",
     "url": "https://opportunitiesforyouth.org/2025/07/08/fully-funded-phd-in-climate-change-human-migration-and-relocation-university-of-melbourne-2026/",
     "added_date": "2026-06-12",
     "source": "OpportunitiesForYouth",
@@ -476,18 +328,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Climate Science",
-      "Environmental Management",
-      "Sustainability"
-    ],
-    "tags": [
-      "climate",
-      "environment",
-      "Italy",
-      "fully-funded",
-      "research-abroad"
-    ],
+    "field": ["Climate Science", "Environmental Management", "Sustainability"],
+    "tags": ["climate", "environment", "Italy", "fully-funded", "research-abroad"],
     "stipend": "4-year fully funded scholarship",
     "deadline": "",
     "deadline_type": "fixed",
@@ -496,7 +338,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "4-year fully funded PhD programme on Science and Management of Climate Change, jointly offered by University of Venice and CMCC. Includes one year of full-time coursework with worldwide research opportunities and connections to 50+ global partner universities.",
+    "description": "4-year fully funded PhD programme on Science and Management of Climate Change, jointly offered by University of Venice and CMCC. Includes worldwide research opportunities.",
     "url": "https://www.accreu.eu/news/unive-cmcc-phd-programme-on-science-and-management-of-climate-change-call-for-applications/",
     "added_date": "2026-06-12",
     "source": "ACCREU",
@@ -509,19 +351,8 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": [
-      "Energy Engineering",
-      "Environmental Science",
-      "Materials Science"
-    ],
-    "tags": [
-      "renewable-energy",
-      "sustainability",
-      "smart-systems",
-      "UK",
-      "CSC",
-      "China"
-    ],
+    "field": ["Energy Engineering", "Environmental Science", "Materials Science"],
+    "tags": ["renewable-energy", "sustainability", "smart-systems", "UK", "CSC", "China"],
     "stipend": "Fully funded (CSC + Exeter): tuition fees + living costs",
     "deadline": "2026-08-01",
     "deadline_type": "fixed",
@@ -530,7 +361,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "Must be Chinese national eligible for CSC support",
-    "description": "Fully funded PhD jointly supported by CSC and University of Exeter for 2026/27 entry. Research areas include floating solar, green hydrogen, building energy efficiency, hybrid systems, and ecological modeling. Deadline August 1, 2026.",
+    "description": "Fully funded PhD jointly supported by CSC and University of Exeter for 2026/27 entry. Research areas include floating solar, green hydrogen, building energy efficiency.",
     "url": "https://www.applykite.com/scholarships/fully-funded-phd-in-renewable-energy-sustainability-and-smart-systems-for-chinese-students-at-university-of-exeter-7vss1wnjmg",
     "added_date": "2026-06-12",
     "source": "ApplyKite",
@@ -543,19 +374,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Data Science",
-      "Mathematics",
-      "Computer Science",
-      "Statistics"
-    ],
-    "tags": [
-      "data-science",
-      "mathematics",
-      "statistics",
-      "Italy",
-      "fully-funded"
-    ],
+    "field": ["Data Science", "Mathematics", "Computer Science", "Statistics"],
+    "tags": ["data-science", "mathematics", "statistics", "Italy", "fully-funded"],
     "stipend": "3-year fully funded scholarship",
     "deadline": "",
     "deadline_type": "fixed",
@@ -564,7 +384,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "3 fully funded PhD positions in the interdisciplinary Modeling and Data Science program at University of Turin. Covers mathematics, computer science, economics, statistics, and physics. Program starts November 1, 2026. Additional company-funded positions may be added.",
+    "description": "3 fully funded PhD positions in the interdisciplinary Modeling and Data Science program at University of Turin. Program starts November 1, 2026.",
     "url": "https://dottorato-mds.campusnet.unito.it/do/home.pl",
     "added_date": "2026-06-12",
     "source": "UniTo",
@@ -577,19 +397,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Computer Science",
-      "AI",
-      "Machine Learning",
-      "Data Science"
-    ],
-    "tags": [
-      "AI",
-      "machine-learning",
-      "data-science",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Computer Science", "AI", "Machine Learning", "Data Science"],
+    "tags": ["AI", "machine-learning", "data-science", "USA", "top-university"],
     "stipend": "~$43,000/year + full tuition waiver",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -598,7 +407,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in EECS at MIT. All admitted PhD students receive full financial support including tuition, stipend (~$43k/year), and health insurance for 5 years. Research areas include AI, machine learning, data science, NLP, systems, and theory. International students welcome.",
+    "description": "Fully funded PhD in EECS at MIT. All admitted PhD students receive full financial support including tuition, stipend (~$43k/year), and health insurance for 5 years.",
     "url": "https://www.eecs.mit.edu/academics/graduate-programs/phd-program/",
     "added_date": "2026-06-12",
     "source": "MIT EECS",
@@ -611,19 +420,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Computer Science",
-      "AI",
-      "Machine Learning",
-      "Data Science"
-    ],
-    "tags": [
-      "AI",
-      "machine-learning",
-      "NLP",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Computer Science", "AI", "Machine Learning", "Data Science"],
+    "tags": ["AI", "machine-learning", "NLP", "USA", "top-university"],
     "stipend": "~$46,000/year + full tuition waiver",
     "deadline": "2026-12-10",
     "deadline_type": "fixed",
@@ -632,7 +430,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in Computer Science at Stanford. All admitted PhD students receive full financial support for 5 years: tuition, stipend (~$46k/year), and health benefits. Strengths in AI, ML, NLP, human-computer interaction, systems, and theoretical CS. International students welcome.",
+    "description": "Fully funded PhD in Computer Science at Stanford. All admitted PhD students receive full financial support for 5 years: tuition, stipend (~$46k/year), and health benefits.",
     "url": "https://cs.stanford.edu/academics/phd",
     "added_date": "2026-06-12",
     "source": "Stanford CS",
@@ -645,19 +443,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Data Science",
-      "AI",
-      "Machine Learning",
-      "Computer Science"
-    ],
-    "tags": [
-      "data-science",
-      "AI",
-      "information-science",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Data Science", "AI", "Machine Learning", "Computer Science"],
+    "tags": ["data-science", "AI", "information-science", "USA", "top-university"],
     "stipend": "~$35,000/year + tuition fellowship",
     "deadline": "2026-12-01",
     "deadline_type": "fixed",
@@ -666,7 +453,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD at UC Berkeley School of Information. Research in data science, AI ethics, human-data interaction, NLP, and social computing. Students receive multi-year fellowship packages covering tuition and stipend. International students welcome.",
+    "description": "Fully funded PhD at UC Berkeley School of Information. Research in data science, AI ethics, human-data interaction, NLP, and social computing.",
     "url": "https://www.ischool.berkeley.edu/programs/phd",
     "added_date": "2026-06-12",
     "source": "UC Berkeley I School",
@@ -679,19 +466,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Environmental Economics",
-      "Climate Policy",
-      "Sustainability",
-      "Economics"
-    ],
-    "tags": [
-      "climate",
-      "sustainability",
-      "environmental-economics",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Environmental Economics", "Climate Policy", "Sustainability", "Economics"],
+    "tags": ["climate", "sustainability", "environmental-economics", "USA", "top-university"],
     "stipend": "~$35,000/year + full tuition + health insurance",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -700,7 +476,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in Sustainable Development at Columbia University. Run jointly by Columbia Earth Institute and SIPA. Research focuses on climate economics, environmental policy, energy transitions, and sustainable development. All admitted students receive full funding for 5 years. International students welcome.",
+    "description": "Fully funded PhD in Sustainable Development at Columbia University. Run jointly by Columbia Earth Institute and SIPA.",
     "url": "https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development",
     "added_date": "2026-06-12",
     "source": "Columbia SIPA",
@@ -713,19 +489,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Machine Learning",
-      "AI",
-      "Data Science",
-      "Computer Science"
-    ],
-    "tags": [
-      "machine-learning",
-      "AI",
-      "deep-learning",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Machine Learning", "AI", "Data Science", "Computer Science"],
+    "tags": ["machine-learning", "AI", "deep-learning", "USA", "top-university"],
     "stipend": "~$42,000/year + full tuition waiver",
     "deadline": "2026-12-10",
     "deadline_type": "fixed",
@@ -734,7 +499,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in Machine Learning at CMU Machine Learning Department — the world's first ML department. All PhD students receive full funding: tuition waiver, stipend (~$42k/year), and health coverage. Research areas: deep learning, probabilistic methods, NLP, reinforcement learning, AI for science. International students welcome.",
+    "description": "Fully funded PhD in Machine Learning at CMU Machine Learning Department. Research areas: deep learning, probabilistic methods, NLP, reinforcement learning, AI for science.",
     "url": "https://www.ml.cmu.edu/prospective-students/phd-students/index.html",
     "added_date": "2026-06-12",
     "source": "CMU MLD",
@@ -747,19 +512,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Economics",
-      "Econometrics",
-      "Environmental Economics",
-      "Political Economy"
-    ],
-    "tags": [
-      "economics",
-      "econometrics",
-      "environmental-economics",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Economics", "Econometrics", "Environmental Economics", "Political Economy"],
+    "tags": ["economics", "econometrics", "environmental-economics", "USA", "top-university"],
     "stipend": "~$37,000/year + full tuition + health insurance",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -768,7 +522,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in Economics at Yale. Strong in environmental economics, development economics, econometrics, and political economy. All admitted students receive 5-year full funding package: tuition, stipend, and health insurance. International students welcome.",
+    "description": "Fully funded PhD in Economics at Yale. Strong in environmental economics, development economics, econometrics, and political economy.",
     "url": "https://economics.yale.edu/graduate-program",
     "added_date": "2026-06-12",
     "source": "Yale Economics",
@@ -781,19 +535,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Environmental Science",
-      "Climate Policy",
-      "Sustainability",
-      "Environmental Economics"
-    ],
-    "tags": [
-      "climate",
-      "environmental",
-      "sustainability",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Environmental Science", "Climate Policy", "Sustainability", "Environmental Economics"],
+    "tags": ["climate", "environmental", "sustainability", "USA", "top-university"],
     "stipend": "~$40,000/year + full tuition + health insurance",
     "deadline": "2026-12-01",
     "deadline_type": "fixed",
@@ -802,7 +545,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD through Princeton's High Meadows Environmental Institute (HMEI). Interdisciplinary research spanning climate science, environmental policy, sustainability, and environmental economics. All PhD students receive full financial support for 5 years. International students welcome.",
+    "description": "Fully funded PhD through Princeton's High Meadows Environmental Institute. Interdisciplinary research spanning climate science, environmental policy, sustainability.",
     "url": "https://environment.princeton.edu/education/graduate/",
     "added_date": "2026-06-12",
     "source": "Princeton HMEI",
@@ -815,19 +558,8 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": [
-      "Economics",
-      "Econometrics",
-      "Political Economy",
-      "Finance"
-    ],
-    "tags": [
-      "economics",
-      "econometrics",
-      "finance",
-      "USA",
-      "top-university"
-    ],
+    "field": ["Economics", "Econometrics", "Political Economy", "Finance"],
+    "tags": ["economics", "econometrics", "finance", "USA", "top-university"],
     "stipend": "~$40,000/year + full tuition + health insurance",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -836,7 +568,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in Economics at the University of Chicago — one of the most prestigious economics programs in the world. All admitted students receive 5-year full funding. Strengths in price theory, econometrics, empirical economics, finance, and political economy. International students welcome.",
+    "description": "Fully funded PhD in Economics at the University of Chicago — one of the most prestigious economics programs in the world.",
     "url": "https://economics.uchicago.edu/graduate/phd",
     "added_date": "2026-06-12",
     "source": "UChicago Economics",
@@ -849,19 +581,8 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": [
-      "Climate Economics",
-      "Environmental Economics",
-      "Risk Management"
-    ],
-    "tags": [
-      "climate",
-      "economics",
-      "risk",
-      "denmark",
-      "Horizon-Europe",
-      "fully-funded"
-    ],
+    "field": ["Climate Economics", "Environmental Economics", "Risk Management"],
+    "tags": ["climate", "economics", "risk", "denmark", "Horizon-Europe", "fully-funded"],
     "stipend": "Danish PhD salary (~DKK 30,000-35,000/month)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -870,7 +591,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "PhD scholarship in Climate Economics and Risk Management at DTU Management. Research on damage costs of climate extremes, adaptation strategies, and disaster risk management. Part of Horizon Europe-funded international research projects. Interdisciplinary team spanning climate hazards, impact assessment, and economics.",
+    "description": "PhD scholarship in Climate Economics and Risk Management at DTU Management. Research on damage costs of climate extremes, adaptation strategies, and disaster risk management.",
     "url": "https://www.efdinitiative.org/about-efd/job-openings/phd-scholarship-climate-economics",
     "added_date": "2026-06-13",
     "source": "EfD Initiative",
@@ -883,21 +604,8 @@
     "country": "Germany / Australia",
     "flag": "🇩🇪🇦🇺",
     "region": "Europe",
-    "field": [
-      "Environmental Science",
-      "Climate Resilience",
-      "Biodiversity",
-      "AI"
-    ],
-    "tags": [
-      "environment",
-      "dual-degree",
-      "Germany",
-      "Australia",
-      "AI",
-      "climate",
-      "biodiversity"
-    ],
+    "field": ["Environmental Science", "Climate Resilience", "Biodiversity", "AI"],
+    "tags": ["environment", "dual-degree", "Germany", "Australia", "AI", "climate", "biodiversity"],
     "stipend": "Fully funded (tuition + stipend)",
     "deadline": "2026-05-17",
     "deadline_type": "fixed",
@@ -906,7 +614,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "6 fully funded dual-degree PhD positions between Germany (KIT, University of Hohenheim) and Australia (University of Melbourne). Research areas: land-use change, biodiversity modeling, AI applications in environmental science, forest ecology, climate resilience. Joint doctoral degree, access to research infrastructure across two continents.",
+    "description": "6 fully funded dual-degree PhD positions between Germany and Australia. Research areas: land-use change, biodiversity modeling, AI applications in environmental science, forest ecology, climate resilience.",
     "url": "https://agristok.net/2026/04/06/fully-funded-phd-environmental-sciences-germany-australia-2026/",
     "added_date": "2026-06-13",
     "source": "Agristok",
@@ -919,18 +627,8 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Computer Science"
-    ],
-    "tags": [
-      "AI",
-      "UK",
-      "UKRI",
-      "multidisciplinary",
-      "cohort"
-    ],
+    "field": ["Artificial Intelligence", "Machine Learning", "Computer Science"],
+    "tags": ["AI", "UK", "UKRI", "multidisciplinary", "cohort"],
     "stipend": "£21,805/year (UKRI rate) + £3,000 research support + home tuition",
     "deadline": "2026-07-31",
     "deadline_type": "fixed",
@@ -939,7 +637,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "New AI Doctoral Training Centre at University of Nottingham. Multidisciplinary AI research across Science, Engineering, Medicine, Arts, and Social Sciences. Fully funded 3.5-year PhD with tax-free stipend. Note: Currently open to UK home students only. Start date October 1, 2026.",
+    "description": "New AI Doctoral Training Centre at University of Nottingham. Multidisciplinary AI research across Science, Engineering, Medicine, Arts, and Social Sciences. Note: Currently open to UK home students only.",
     "url": "https://www.nottingham.ac.uk/computerscience/studywithus/postgraduateresearch/nottinghamdtcinai.aspx",
     "added_date": "2026-06-13",
     "source": "University of Nottingham",
@@ -952,18 +650,8 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": [
-      "Materials Science",
-      "Energy Engineering",
-      "Renewable Energy"
-    ],
-    "tags": [
-      "solar",
-      "materials",
-      "renewable-energy",
-      "UK",
-      "fully-funded"
-    ],
+    "field": ["Materials Science", "Energy Engineering", "Renewable Energy"],
+    "tags": ["solar", "materials", "renewable-energy", "UK", "fully-funded"],
     "stipend": "Full studentship (tuition + stipend)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -972,7 +660,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD studentship in Materials Engineering at Swansea University. Research on sustainable solar solutions to transform global energy access. Focus on advancing solar technology for energy-poor regions. Part of UK research initiative on renewable energy.",
+    "description": "Fully funded PhD studentship in Materials Engineering at Swansea University. Research on sustainable solar solutions to transform global energy access.",
     "url": "https://www.postgraduatestudentships.co.uk/opportunity/materials-engineering-fully-funded-phd-studentship-in-advancing-sustainable-solar-solutions-to-transform-global-energy-access-rs934/96268",
     "added_date": "2026-06-13",
     "source": "PostgraduateStudentships",
@@ -985,18 +673,8 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Econometrics",
-      "Data Science"
-    ],
-    "tags": [
-      "economics",
-      "econometrics",
-      "UK",
-      "fully-funded",
-      "international"
-    ],
+    "field": ["Economics", "Econometrics", "Data Science"],
+    "tags": ["economics", "econometrics", "UK", "fully-funded", "international"],
     "stipend": "Full funding (tuition + stipend)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -1005,7 +683,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD opportunities in Economics at the University of Edinburgh for September 2026 entry. Open to both international and UK students. Covers economics, econometrics, and data-driven research. Strong research environment with internationally recognized faculty.",
+    "description": "Fully funded PhD opportunities in Economics at the University of Edinburgh for September 2026 entry. Open to both international and UK students.",
     "url": "https://www.ed.ac.uk/economics",
     "added_date": "2026-06-14",
     "source": "LinkedIn",
@@ -1018,19 +696,8 @@
     "country": "Europe",
     "flag": "🇪🇺",
     "region": "Europe",
-    "field": [
-      "Climate Economics",
-      "Finance",
-      "Data Science",
-      "Real Estate"
-    ],
-    "tags": [
-      "climate-risk",
-      "real-estate",
-      "agent-based-modeling",
-      "finance",
-      "interdisciplinary"
-    ],
+    "field": ["Climate Economics", "Finance", "Data Science", "Real Estate"],
+    "tags": ["climate-risk", "real-estate", "agent-based-modeling", "finance", "interdisciplinary"],
     "stipend": "Fully funded (varies by host institution)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -1039,7 +706,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD exploring climate risks' impact on real estate and mortgage portfolios. Candidates should have agent-based modeling expertise. Listed among 24 Climate Change & Sustainability PhD positions on PhDScanner. Check individual listings for specific universities and deadlines.",
+    "description": "Fully funded PhD exploring climate risks' impact on real estate and mortgage portfolios. Candidates should have agent-based modeling expertise.",
     "url": "https://www.phdscanner.com/phd-vacancies/standard/discipline/Climate-Change-and-Sustainability",
     "added_date": "2026-06-14",
     "source": "PhDScanner",
@@ -1052,19 +719,8 @@
     "country": "West Africa (Multi-country)",
     "flag": "🌍",
     "region": "Africa",
-    "field": [
-      "Climate Economics",
-      "Environmental Economics",
-      "Climate Policy"
-    ],
-    "tags": [
-      "climate",
-      "economics",
-      "West-Africa",
-      "BMBF",
-      "fully-funded",
-      "developing-countries"
-    ],
+    "field": ["Climate Economics", "Environmental Economics", "Climate Policy"],
+    "tags": ["climate", "economics", "West-Africa", "BMBF", "fully-funded", "developing-countries"],
     "stipend": "Fully funded (German BMBF sponsorship)",
     "deadline": "",
     "deadline_type": "fixed",
@@ -1073,7 +729,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "Program operates across 11 West African member countries",
-    "description": "WASCAL's PhD Programme in Climate Change Economics, sponsored by the German Federal Ministry of Education and Research (BMBF). Covers climate economics, adaptation research, and land use management across 13 West African partner universities. Focus on building scientific capacity in climate, natural and social sciences.",
+    "description": "WASCAL's PhD Programme in Climate Change Economics, sponsored by the German Federal Ministry of Education and Research (BMBF).",
     "url": "https://wascal.org/call-for-applications-phd-programme-in-climate-change-economics/",
     "added_date": "2026-06-14",
     "source": "WASCAL",
@@ -1086,20 +742,8 @@
     "country": "Czech Republic",
     "flag": "🇨🇿",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Econometrics",
-      "Macroeconomics",
-      "Microeconomics"
-    ],
-    "tags": [
-      "economics",
-      "econometrics",
-      "Czech-Republic",
-      "fully-funded",
-      "international",
-      "top-program"
-    ],
+    "field": ["Economics", "Econometrics", "Macroeconomics", "Microeconomics"],
+    "tags": ["economics", "econometrics", "Czech-Republic", "fully-funded", "international", "top-program"],
     "stipend": "Fully funded (covers tuition + living stipend)",
     "deadline": "",
     "deadline_type": "annual",
@@ -1108,7 +752,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD in Economics at CERGE-EI, a joint workplace of Charles University in Prague and the Economics Institute of the Czech Academy of Sciences. Internationally recognized program with rigorous coursework and original research. Graduates succeed at leading universities, central banks, international organisations. Multiple application rounds per year.",
+    "description": "Fully funded PhD in Economics at CERGE-EI, a joint workplace of Charles University in Prague and the Economics Institute of the Czech Academy of Sciences.",
     "url": "https://www.cerge-ei.cz/phd-in-economics/",
     "added_date": "2026-06-15",
     "source": "INOMICS",
@@ -1121,20 +765,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Data Science",
-      "AI",
-      "Decision Science",
-      "Statistics"
-    ],
-    "tags": [
-      "data-science",
-      "AI",
-      "genomics",
-      "biomedical",
-      "Italy",
-      "fully-funded"
-    ],
+    "field": ["Data Science", "AI", "Decision Science", "Statistics"],
+    "tags": ["data-science", "AI", "genomics", "biomedical", "Italy", "fully-funded"],
     "stipend": "Fully funded scholarship + international research stay support",
     "deadline": "",
     "deadline_type": "rolling",
@@ -1143,10 +775,11 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Three fully-funded PhD positions at Human Technopole as part of the PhD Programme in Data Analytics and Decision Sciences of Politecnico di Milano. Research areas: AI for spatiotemporal processes in biomedicine, mathematical modelling of stochastic biological processes, and statistical genomics of population-scale single-cell data. International research stays, conferences, and state-of-the-art facilities included.",
+    "description": "Three fully-funded PhD positions at Human Technopole as part of the PhD Programme in Data Analytics and Decision Sciences of Politecnico di Milano.",
     "url": "https://humantechnopole.it/en/news/3-fully-funded-phd-positions-in-data-analytics-and-decision-sciences-at-ht/",
     "added_date": "2026-06-16",
-    "source": "Human Technopole"
+    "source": "Human Technopole",
+    "qs_rank": null
   },
   {
     "id": "luiss-economics-phd-2027",
@@ -1155,31 +788,21 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Finance",
-      "Econometrics"
-    ],
-    "tags": [
-      "economics",
-      "finance",
-      "econometrics",
-      "Italy",
-      "fully-funded",
-      "international"
-    ],
+    "field": ["Economics", "Finance", "Econometrics"],
+    "tags": ["economics", "finance", "econometrics", "Italy", "fully-funded", "international"],
     "stipend": "Fully funded, 4-year full-time program",
-    "deadline": "",
-    "deadline_type": "annual",
+    "deadline": "2026-03-13",
+    "deadline_type": "fixed",
     "status": "upcoming",
     "supervisor": "Various faculty",
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Six fully funded 4-year PhD scholarships in Economics and Finance at Luiss Guido Carli University, Rome. Designed for highly qualified students aiming for academic or policy careers. Covers applied microeconomics, macroeconomics, econometrics, and finance. Located in Rome with strong industry connections.",
-    "url": "https://www.luiss.edu/phd",
+    "description": "Six fully funded 4-year PhD scholarships in Economics and Finance at Luiss Guido Carli University, Rome. Deadline has passed for 2026 cycle; watch for 2027.",
+    "url": "https://phd.luiss.it/economics/",
     "added_date": "2026-06-16",
-    "source": "Instagram/Luiss"
+    "source": "AKADEUS",
+    "qs_rank": null
   },
   {
     "id": "santanna-economics-phd-2027",
@@ -1188,19 +811,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Econometrics",
-      "Political Economy"
-    ],
-    "tags": [
-      "economics",
-      "econometrics",
-      "political-economy",
-      "Italy",
-      "fully-funded",
-      "elite"
-    ],
+    "field": ["Economics", "Econometrics", "Political Economy"],
+    "tags": ["economics", "econometrics", "political-economy", "Italy", "fully-funded", "elite"],
     "stipend": "Fully funded 4-year scholarships",
     "deadline": "",
     "deadline_type": "annual",
@@ -1209,10 +821,11 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Five fully funded 4-year PhD scholarships in Economics at Scuola Superiore Sant'Anna, Pisa, Italy. Elite Italian university with strong research output. Covers microeconomics, macroeconomics, econometrics, and political economy. International students welcome.",
+    "description": "Five fully funded 4-year PhD scholarships in Economics at Scuola Superiore Sant'Anna, Pisa, Italy. Elite Italian university with strong research output.",
     "url": "https://www.santannapisa.it",
     "added_date": "2026-06-16",
-    "source": "INOMICS"
+    "source": "INOMICS",
+    "qs_rank": null
   },
   {
     "id": "sapienza-economics-phd-2027",
@@ -1221,18 +834,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Econometrics",
-      "Data Science"
-    ],
-    "tags": [
-      "economics",
-      "econometrics",
-      "Italy",
-      "PNRR-funded",
-      "fully-funded"
-    ],
+    "field": ["Economics", "Econometrics", "Data Science"],
+    "tags": ["economics", "econometrics", "Italy", "PNRR-funded", "fully-funded"],
     "stipend": "Fully or partially funded (PNRR)",
     "deadline": "",
     "deadline_type": "annual",
@@ -1241,10 +844,11 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "PhD in Economics at Sapienza University of Rome, Italy's largest university. Activities are fully or partially funded by the Italian National Recovery and Resilience Plan (PNRR). Strong research environment with multiple specializations available. International students welcome.",
+    "description": "PhD in Economics at Sapienza University of Rome, Italy's largest university. Activities are fully or partially funded by the Italian National Recovery and Resilience Plan (PNRR).",
     "url": "https://opportunitiesforyouth.org/2026/05/25/phd-in-economics-at-sapienza-university-of-rome-a-comprehensive-guide-for-2026-applicants/",
     "added_date": "2026-06-16",
-    "source": "OpportunitiesForYouth"
+    "source": "OpportunitiesForYouth",
+    "qs_rank": null
   },
   {
     "id": "ucl-financial-econ-phd-2027",
@@ -1253,19 +857,8 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": [
-      "Economics",
-      "Finance",
-      "Econometrics"
-    ],
-    "tags": [
-      "economics",
-      "finance",
-      "econometrics",
-      "UK",
-      "QS-top-10",
-      "fully-funded"
-    ],
+    "field": ["Economics", "Finance", "Econometrics"],
+    "tags": ["economics", "finance", "econometrics", "UK", "QS-top-10", "fully-funded"],
     "stipend": "Fully-funded scholarships for all admitted students",
     "deadline": "2027-01-23",
     "deadline_type": "fixed",
@@ -1274,7 +867,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "UCL Level 2: IELTS 7.0 overall (min 6.5 per band) or TOEFL equivalent",
-    "description": "5-year PhD programme (1-year MRes + 4-year PhD) jointly run by UCL Department of Economics and School of Management. Fully-funded scholarships available to all admitted students who apply by the January deadline. Rigorous quantitative training in micro, macro, econometrics, and finance. Requires Master's with distinction + GRE Quantitative 160+.",
+    "description": "5-year PhD programme (1-year MRes + 4-year PhD) jointly run by UCL Department of Economics and School of Management.",
     "url": "https://www.mgmt.ucl.ac.uk/phd-financial-economics",
     "added_date": "2026-06-16",
     "source": "UCL",
@@ -1287,19 +880,8 @@
     "country": "Germany",
     "flag": "🇩🇪",
     "region": "Europe",
-    "field": [
-      "Machine Learning",
-      "AI",
-      "Computer Science"
-    ],
-    "tags": [
-      "machine-learning",
-      "AI",
-      "Germany",
-      "fully-funded",
-      "LMU",
-      "TUM"
-    ],
+    "field": ["Machine Learning", "AI", "Computer Science"],
+    "tags": ["machine-learning", "AI", "Germany", "fully-funded", "LMU", "TUM"],
     "stipend": "Fully funded (German TV-L E13 salary scale)",
     "deadline": "",
     "deadline_type": "annual",
@@ -1308,10 +890,11 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Fully funded PhD positions at the Munich Center for Machine Learning (MCML), a collaboration between LMU Munich and TUM. Received 1,500+ applications from international students. Research in ML and AI with top faculty. Positions announced annually — watch for next recruitment cycle.",
+    "description": "Fully funded PhD positions at the Munich Center for Machine Learning (MCML), a collaboration between LMU Munich and TUM. 1,500+ applications received in 2025 cycle.",
     "url": "https://mcml.ai/opportunities/for-phd-applicants/phd2026/",
     "added_date": "2026-06-16",
-    "source": "MCML"
+    "source": "MCML",
+    "qs_rank": null
   },
   {
     "id": "copenhagen-llm-security-phd-2026",
@@ -1320,20 +903,8 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": [
-      "AI",
-      "Machine Learning",
-      "NLP",
-      "Computer Science"
-    ],
-    "tags": [
-      "AI",
-      "LLM",
-      "security",
-      "interpretability",
-      "Denmark",
-      "fully-funded"
-    ],
+    "field": ["AI", "Machine Learning", "NLP", "Computer Science"],
+    "tags": ["AI", "LLM", "security", "interpretability", "Denmark", "fully-funded"],
     "stipend": "Danish PhD salary (~DKK 35,000/month)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -1342,10 +913,11 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Newly announced fully funded PhD position at University of Copenhagen, Department of Computer Science. Research focus on mechanistic interpretability for LLM security. Danish PhD positions come with competitive salary and excellent work-life benefits. Check DIKU website for application details.",
+    "description": "Newly announced fully funded PhD position at University of Copenhagen, Department of Computer Science. Research focus on mechanistic interpretability for LLM security.",
     "url": "https://di.ku.dk",
     "added_date": "2026-06-16",
-    "source": "Yutori Scouts"
+    "source": "Yutori Scouts",
+    "qs_rank": null
   },
   {
     "id": "cambridge-sustainable-energy-materials-2026",
@@ -1354,19 +926,8 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": [
-      "Materials Science",
-      "Energy Engineering",
-      "Sustainability"
-    ],
-    "tags": [
-      "materials-science",
-      "energy",
-      "sustainability",
-      "UK",
-      "QS-top-5",
-      "fully-funded"
-    ],
+    "field": ["Materials Science", "Energy Engineering", "Sustainability"],
+    "tags": ["materials-science", "energy", "sustainability", "UK", "QS-top-5", "fully-funded"],
     "stipend": "Fully funded studentships (covering fees + maintenance)",
     "deadline": "",
     "deadline_type": "annual",
@@ -1375,7 +936,7 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "PhD in Sustainable Energy Materials Innovation at the University of Cambridge. Fully funded studentships available covering home fees and maintenance, sometimes in conjunction with Cambridge Trusts and participating departments. Research in next-generation energy materials for sustainable energy transitions.",
+    "description": "PhD in Sustainable Energy Materials Innovation at the University of Cambridge. Fully funded studentships available covering home fees and maintenance.",
     "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdsem/finance",
     "added_date": "2026-06-16",
     "source": "Cambridge",
@@ -1388,19 +949,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": [
-      "Energy Engineering",
-      "Materials Science",
-      "Sustainability"
-    ],
-    "tags": [
-      "MSCA",
-      "energy-storage",
-      "sustainability",
-      "Italy",
-      "fully-funded",
-      "Marie-Curie"
-    ],
+    "field": ["Energy Engineering", "Materials Science", "Sustainability"],
+    "tags": ["MSCA", "energy-storage", "sustainability", "Italy", "fully-funded", "Marie-Curie"],
     "stipend": "MSCA salary (competitive European rate)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -1409,9 +959,79 @@
     "language_req": "English",
     "other_language_required": false,
     "other_language_note": "",
-    "description": "Marie Skłodowska-Curie Actions (MSCA) PhD positions at University of Bologna under the RESTORATIVE project. Research in energy storage, sustainability assessment, and related topics. MSCA positions offer competitive salary, international mobility, and excellent career development. Open to early-stage researchers.",
+    "description": "Marie Skłodowska-Curie Actions (MSCA) PhD positions at University of Bologna under the RESTORATIVE project. Research in energy storage, sustainability assessment.",
     "url": "https://pathlins.com/scholarships/university-of-bologna-restorative-msca-phd-positions-2026-in-italy",
     "added_date": "2026-06-16",
-    "source": "Pathlins"
+    "source": "Pathlins",
+    "qs_rank": null
+  },
+  {
+    "id": "lausanne-ai-management-2026",
+    "title": "PhD at the Intersection of AI and Management / Information Systems",
+    "university": "University of Lausanne (UNIL)",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "region": "Europe",
+    "field": ["Artificial Intelligence", "Management", "Information Systems"],
+    "tags": ["AI", "management", "information-systems", "Switzerland", "fully-funded", "interdisciplinary"],
+    "stipend": "Swiss National Science Foundation (SNSF) funded salary",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "UNIL Faculty of Business and Economics",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "Two full-time PhD positions at the intersection of Artificial Intelligence and Management/Information Systems, funded by Swiss National Science Foundation at University of Lausanne. Research on AI applications in business and organizational contexts.",
+    "url": "https://www.unil.ch",
+    "added_date": "2026-06-17",
+    "source": "Google Groups/ML-News",
+    "qs_rank": null
+  },
+  {
+    "id": "sherbrooke-ai-nlp-cyber-2026",
+    "title": "Fully Funded PhD in AI, NLP and Cybersecurity",
+    "university": "Université de Sherbrooke",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "region": "North America",
+    "field": ["Artificial Intelligence", "NLP", "Cybersecurity"],
+    "tags": ["AI", "NLP", "cybersecurity", "Canada", "fully-funded", "international"],
+    "stipend": "Fully funded (tuition + stipend)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "French-language university but PhD research can be conducted in English",
+    "description": "Fully funded PhD position in AI, NLP and cybersecurity at Université de Sherbrooke, Quebec, Canada. Part of a faculty with internationally acknowledged top researchers. International students welcome.",
+    "url": "https://www.usherbrooke.ca",
+    "added_date": "2026-06-17",
+    "source": "Facebook/phd.hub",
+    "qs_rank": null
+  },
+  {
+    "id": "belgium-9phd-ai-energy-2026",
+    "title": "9 Funded PhD Positions in Civil Engineering, AI & Renewable Energy",
+    "university": "Multiple Belgian Universities",
+    "country": "Belgium",
+    "flag": "🇧🇪",
+    "region": "Europe",
+    "field": ["Civil Engineering", "Artificial Intelligence", "Renewable Energy"],
+    "tags": ["AI", "renewable-energy", "civil-engineering", "Belgium", "fully-funded", "multi-position"],
+    "stipend": "Fully funded (Belgian PhD salary)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "Various faculty",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "9 fully funded PhD positions across Belgian universities covering civil engineering, AI, and renewable energy. Multiple research topics available across the 9 positions. Check individual listings for specific universities, supervisors, and deadlines.",
+    "url": "https://www.youtube.com/watch?v=209gxZ_j4Mk",
+    "added_date": "2026-06-17",
+    "source": "YouTube/PhD Opportunities",
+    "qs_rank": null
   }
 ]
