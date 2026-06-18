@@ -6,8 +6,18 @@
     "country": "Switzerland",
     "flag": "🇨🇭",
     "region": "Europe",
-    "field": ["Environmental Economics", "Climate Policy", "Political Economy"],
-    "tags": ["climate", "policy", "political-economy", "quantitative", "switzerland"],
+    "field": [
+      "Environmental Economics",
+      "Climate Policy",
+      "Political Economy"
+    ],
+    "tags": [
+      "climate",
+      "policy",
+      "political-economy",
+      "quantitative",
+      "switzerland"
+    ],
     "stipend": "CHF 61,000–64,000/year",
     "deadline": "2026-06-21",
     "deadline_type": "fixed",
@@ -29,8 +39,19 @@
     "country": "Austria",
     "flag": "🇦🇹",
     "region": "Europe",
-    "field": ["Environmental Science", "Climate Policy", "Sustainability"],
-    "tags": ["environment", "climate", "GIS", "sustainability", "austria", "fully-funded"],
+    "field": [
+      "Environmental Science",
+      "Climate Policy",
+      "Sustainability"
+    ],
+    "tags": [
+      "environment",
+      "climate",
+      "GIS",
+      "sustainability",
+      "austria",
+      "fully-funded"
+    ],
     "stipend": "Full tuition + living allowance + health insurance",
     "deadline": "2027-02-04",
     "deadline_type": "fixed",
@@ -52,8 +73,18 @@
     "country": "Netherlands",
     "flag": "🇳🇱",
     "region": "Europe",
-    "field": ["Economics", "Data Science", "Econometrics"],
-    "tags": ["economics", "data-science", "econometrics", "netherlands", "fully-funded"],
+    "field": [
+      "Economics",
+      "Data Science",
+      "Econometrics"
+    ],
+    "tags": [
+      "economics",
+      "data-science",
+      "econometrics",
+      "netherlands",
+      "fully-funded"
+    ],
     "stipend": "€750–1,000/month (MRes) + full PhD funding",
     "deadline": "2026-06-15",
     "deadline_type": "rolling",
@@ -75,8 +106,18 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Computer Science", "Economics", "Data Science"],
-    "tags": ["computer-science", "economics", "AI", "italy", "interdisciplinary"],
+    "field": [
+      "Computer Science",
+      "Economics",
+      "Data Science"
+    ],
+    "tags": [
+      "computer-science",
+      "economics",
+      "AI",
+      "italy",
+      "interdisciplinary"
+    ],
     "stipend": "~€16,000/year",
     "deadline": "2026-09-01",
     "deadline_type": "fixed",
@@ -98,8 +139,18 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Economics", "Data Science", "Decision Science"],
-    "tags": ["economics", "data-science", "behavioral", "italy", "quantitative"],
+    "field": [
+      "Economics",
+      "Data Science",
+      "Decision Science"
+    ],
+    "tags": [
+      "economics",
+      "data-science",
+      "behavioral",
+      "italy",
+      "quantitative"
+    ],
     "stipend": "~€16,000/year",
     "deadline": "2027-06-01",
     "deadline_type": "fixed",
@@ -121,8 +172,19 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": ["Data Science", "NLP", "AI"],
-    "tags": ["NLP", "LLM", "AI", "data-science", "denmark", "fully-funded"],
+    "field": [
+      "Data Science",
+      "NLP",
+      "AI"
+    ],
+    "tags": [
+      "NLP",
+      "LLM",
+      "AI",
+      "data-science",
+      "denmark",
+      "fully-funded"
+    ],
     "stipend": "DKK ~35,000/month",
     "deadline": "2026-12-01",
     "deadline_type": "rolling",
@@ -144,8 +206,18 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": ["Data Science", "Big Data", "AI"],
-    "tags": ["data-science", "big-data", "AI", "denmark", "interdisciplinary"],
+    "field": [
+      "Data Science",
+      "Big Data",
+      "AI"
+    ],
+    "tags": [
+      "data-science",
+      "big-data",
+      "AI",
+      "denmark",
+      "interdisciplinary"
+    ],
     "stipend": "DKK ~35,000/month",
     "deadline": "2026-12-01",
     "deadline_type": "annual",
@@ -167,8 +239,17 @@
     "country": "Australia",
     "flag": "🇦🇺",
     "region": "Australia",
-    "field": ["Environmental Science", "Sustainability"],
-    "tags": ["environment", "sustainability", "australia", "RTP", "fully-funded"],
+    "field": [
+      "Environmental Science",
+      "Sustainability"
+    ],
+    "tags": [
+      "environment",
+      "sustainability",
+      "australia",
+      "RTP",
+      "fully-funded"
+    ],
     "stipend": "AUD ~35,000/year + tuition waiver",
     "deadline": "2026-10-31",
     "deadline_type": "rolling",
@@ -190,8 +271,19 @@
     "country": "Switzerland",
     "flag": "🇨🇭",
     "region": "Europe",
-    "field": ["Agricultural Economics", "Climate Policy", "Sustainability"],
-    "tags": ["climate", "agriculture", "economics", "policy", "switzerland", "fully-funded"],
+    "field": [
+      "Agricultural Economics",
+      "Climate Policy",
+      "Sustainability"
+    ],
+    "tags": [
+      "climate",
+      "agriculture",
+      "economics",
+      "policy",
+      "switzerland",
+      "fully-funded"
+    ],
     "stipend": "Competitive ETH Zürich salary (4-year full funding)",
     "deadline": "2026-06-26",
     "deadline_type": "fixed",
@@ -213,8 +305,19 @@
     "country": "Switzerland",
     "flag": "🇨🇭",
     "region": "Europe",
-    "field": ["Innovation Economics", "Climate Policy", "Technology Policy"],
-    "tags": ["climate", "innovation", "economics", "policy", "switzerland", "NCCR"],
+    "field": [
+      "Innovation Economics",
+      "Climate Policy",
+      "Technology Policy"
+    ],
+    "tags": [
+      "climate",
+      "innovation",
+      "economics",
+      "policy",
+      "switzerland",
+      "NCCR"
+    ],
     "stipend": "Full doctoral student salary (3-year position)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -236,8 +339,19 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": ["Artificial Intelligence", "Machine Learning", "AI Ethics"],
-    "tags": ["AI", "ethics", "fairness", "NLP", "UK", "fully-funded"],
+    "field": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "AI Ethics"
+    ],
+    "tags": [
+      "AI",
+      "ethics",
+      "fairness",
+      "NLP",
+      "UK",
+      "fully-funded"
+    ],
     "stipend": "£21,000/year tax-free stipend + full tuition coverage",
     "deadline": "",
     "deadline_type": "rolling",
@@ -259,8 +373,20 @@
     "country": "Europe (Multi-country)",
     "flag": "🇪🇺",
     "region": "Europe",
-    "field": ["Computer Science", "Artificial Intelligence", "Control Systems", "Cybersecurity"],
-    "tags": ["AI", "cybersecurity", "control-systems", "Horizon Europe", "MSCA", "multi-country"],
+    "field": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Control Systems",
+      "Cybersecurity"
+    ],
+    "tags": [
+      "AI",
+      "cybersecurity",
+      "control-systems",
+      "Horizon Europe",
+      "MSCA",
+      "multi-country"
+    ],
     "stipend": "MSCA doctoral salary (varies by host country)",
     "deadline": "2026-04-01",
     "deadline_type": "fixed",
@@ -282,8 +408,19 @@
     "country": "France",
     "flag": "🇫🇷",
     "region": "Europe",
-    "field": ["Economics", "Econometrics", "Computational Economics"],
-    "tags": ["economics", "econometrics", "complexity", "France", "fully-funded", "international"],
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Computational Economics"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "complexity",
+      "France",
+      "fully-funded",
+      "international"
+    ],
     "stipend": "€2,836/month gross (12 months/year, 4 years)",
     "deadline": "2026-05-15",
     "deadline_type": "fixed",
@@ -305,8 +442,19 @@
     "country": "Australia",
     "flag": "🇦🇺",
     "region": "Australia",
-    "field": ["Climate Science", "Human Geography", "Migration Studies"],
-    "tags": ["climate", "migration", "Australia", "ARC-funded", "interdisciplinary", "fully-funded"],
+    "field": [
+      "Climate Science",
+      "Human Geography",
+      "Migration Studies"
+    ],
+    "tags": [
+      "climate",
+      "migration",
+      "Australia",
+      "ARC-funded",
+      "interdisciplinary",
+      "fully-funded"
+    ],
     "stipend": "AUD ~38,500/year (pro rata)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -328,8 +476,18 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Climate Science", "Environmental Management", "Sustainability"],
-    "tags": ["climate", "environment", "Italy", "fully-funded", "research-abroad"],
+    "field": [
+      "Climate Science",
+      "Environmental Management",
+      "Sustainability"
+    ],
+    "tags": [
+      "climate",
+      "environment",
+      "Italy",
+      "fully-funded",
+      "research-abroad"
+    ],
     "stipend": "4-year fully funded scholarship",
     "deadline": "",
     "deadline_type": "fixed",
@@ -351,8 +509,19 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": ["Energy Engineering", "Environmental Science", "Materials Science"],
-    "tags": ["renewable-energy", "sustainability", "smart-systems", "UK", "CSC", "China"],
+    "field": [
+      "Energy Engineering",
+      "Environmental Science",
+      "Materials Science"
+    ],
+    "tags": [
+      "renewable-energy",
+      "sustainability",
+      "smart-systems",
+      "UK",
+      "CSC",
+      "China"
+    ],
     "stipend": "Fully funded (CSC + Exeter): tuition fees + living costs",
     "deadline": "2026-08-01",
     "deadline_type": "fixed",
@@ -374,8 +543,19 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Data Science", "Mathematics", "Computer Science", "Statistics"],
-    "tags": ["data-science", "mathematics", "statistics", "Italy", "fully-funded"],
+    "field": [
+      "Data Science",
+      "Mathematics",
+      "Computer Science",
+      "Statistics"
+    ],
+    "tags": [
+      "data-science",
+      "mathematics",
+      "statistics",
+      "Italy",
+      "fully-funded"
+    ],
     "stipend": "3-year fully funded scholarship",
     "deadline": "",
     "deadline_type": "fixed",
@@ -397,8 +577,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Computer Science", "AI", "Machine Learning", "Data Science"],
-    "tags": ["AI", "machine-learning", "data-science", "USA", "top-university"],
+    "field": [
+      "Computer Science",
+      "AI",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "tags": [
+      "AI",
+      "machine-learning",
+      "data-science",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$43,000/year + full tuition waiver",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -420,8 +611,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Computer Science", "AI", "Machine Learning", "Data Science"],
-    "tags": ["AI", "machine-learning", "NLP", "USA", "top-university"],
+    "field": [
+      "Computer Science",
+      "AI",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "tags": [
+      "AI",
+      "machine-learning",
+      "NLP",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$46,000/year + full tuition waiver",
     "deadline": "2026-12-10",
     "deadline_type": "fixed",
@@ -443,8 +645,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Data Science", "AI", "Machine Learning", "Computer Science"],
-    "tags": ["data-science", "AI", "information-science", "USA", "top-university"],
+    "field": [
+      "Data Science",
+      "AI",
+      "Machine Learning",
+      "Computer Science"
+    ],
+    "tags": [
+      "data-science",
+      "AI",
+      "information-science",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$35,000/year + tuition fellowship",
     "deadline": "2026-12-01",
     "deadline_type": "fixed",
@@ -466,8 +679,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Environmental Economics", "Climate Policy", "Sustainability", "Economics"],
-    "tags": ["climate", "sustainability", "environmental-economics", "USA", "top-university"],
+    "field": [
+      "Environmental Economics",
+      "Climate Policy",
+      "Sustainability",
+      "Economics"
+    ],
+    "tags": [
+      "climate",
+      "sustainability",
+      "environmental-economics",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$35,000/year + full tuition + health insurance",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -489,8 +713,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Machine Learning", "AI", "Data Science", "Computer Science"],
-    "tags": ["machine-learning", "AI", "deep-learning", "USA", "top-university"],
+    "field": [
+      "Machine Learning",
+      "AI",
+      "Data Science",
+      "Computer Science"
+    ],
+    "tags": [
+      "machine-learning",
+      "AI",
+      "deep-learning",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$42,000/year + full tuition waiver",
     "deadline": "2026-12-10",
     "deadline_type": "fixed",
@@ -512,8 +747,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Economics", "Econometrics", "Environmental Economics", "Political Economy"],
-    "tags": ["economics", "econometrics", "environmental-economics", "USA", "top-university"],
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Environmental Economics",
+      "Political Economy"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "environmental-economics",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$37,000/year + full tuition + health insurance",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -535,8 +781,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Environmental Science", "Climate Policy", "Sustainability", "Environmental Economics"],
-    "tags": ["climate", "environmental", "sustainability", "USA", "top-university"],
+    "field": [
+      "Environmental Science",
+      "Climate Policy",
+      "Sustainability",
+      "Environmental Economics"
+    ],
+    "tags": [
+      "climate",
+      "environmental",
+      "sustainability",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$40,000/year + full tuition + health insurance",
     "deadline": "2026-12-01",
     "deadline_type": "fixed",
@@ -558,8 +815,19 @@
     "country": "USA",
     "flag": "🇺🇸",
     "region": "North America",
-    "field": ["Economics", "Econometrics", "Political Economy", "Finance"],
-    "tags": ["economics", "econometrics", "finance", "USA", "top-university"],
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Political Economy",
+      "Finance"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "finance",
+      "USA",
+      "top-university"
+    ],
     "stipend": "~$40,000/year + full tuition + health insurance",
     "deadline": "2026-12-15",
     "deadline_type": "fixed",
@@ -581,8 +849,19 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": ["Climate Economics", "Environmental Economics", "Risk Management"],
-    "tags": ["climate", "economics", "risk", "denmark", "Horizon-Europe", "fully-funded"],
+    "field": [
+      "Climate Economics",
+      "Environmental Economics",
+      "Risk Management"
+    ],
+    "tags": [
+      "climate",
+      "economics",
+      "risk",
+      "denmark",
+      "Horizon-Europe",
+      "fully-funded"
+    ],
     "stipend": "Danish PhD salary (~DKK 30,000-35,000/month)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -604,8 +883,21 @@
     "country": "Germany / Australia",
     "flag": "🇩🇪🇦🇺",
     "region": "Europe",
-    "field": ["Environmental Science", "Climate Resilience", "Biodiversity", "AI"],
-    "tags": ["environment", "dual-degree", "Germany", "Australia", "AI", "climate", "biodiversity"],
+    "field": [
+      "Environmental Science",
+      "Climate Resilience",
+      "Biodiversity",
+      "AI"
+    ],
+    "tags": [
+      "environment",
+      "dual-degree",
+      "Germany",
+      "Australia",
+      "AI",
+      "climate",
+      "biodiversity"
+    ],
     "stipend": "Fully funded (tuition + stipend)",
     "deadline": "2026-05-17",
     "deadline_type": "fixed",
@@ -627,8 +919,18 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": ["Artificial Intelligence", "Machine Learning", "Computer Science"],
-    "tags": ["AI", "UK", "UKRI", "multidisciplinary", "cohort"],
+    "field": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Science"
+    ],
+    "tags": [
+      "AI",
+      "UK",
+      "UKRI",
+      "multidisciplinary",
+      "cohort"
+    ],
     "stipend": "£21,805/year (UKRI rate) + £3,000 research support + home tuition",
     "deadline": "2026-07-31",
     "deadline_type": "fixed",
@@ -650,8 +952,18 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": ["Materials Science", "Energy Engineering", "Renewable Energy"],
-    "tags": ["solar", "materials", "renewable-energy", "UK", "fully-funded"],
+    "field": [
+      "Materials Science",
+      "Energy Engineering",
+      "Renewable Energy"
+    ],
+    "tags": [
+      "solar",
+      "materials",
+      "renewable-energy",
+      "UK",
+      "fully-funded"
+    ],
     "stipend": "Full studentship (tuition + stipend)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -673,8 +985,18 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": ["Economics", "Econometrics", "Data Science"],
-    "tags": ["economics", "econometrics", "UK", "fully-funded", "international"],
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Data Science"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "UK",
+      "fully-funded",
+      "international"
+    ],
     "stipend": "Full funding (tuition + stipend)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -696,8 +1018,19 @@
     "country": "Europe",
     "flag": "🇪🇺",
     "region": "Europe",
-    "field": ["Climate Economics", "Finance", "Data Science", "Real Estate"],
-    "tags": ["climate-risk", "real-estate", "agent-based-modeling", "finance", "interdisciplinary"],
+    "field": [
+      "Climate Economics",
+      "Finance",
+      "Data Science",
+      "Real Estate"
+    ],
+    "tags": [
+      "climate-risk",
+      "real-estate",
+      "agent-based-modeling",
+      "finance",
+      "interdisciplinary"
+    ],
     "stipend": "Fully funded (varies by host institution)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -719,8 +1052,19 @@
     "country": "West Africa (Multi-country)",
     "flag": "🌍",
     "region": "Africa",
-    "field": ["Climate Economics", "Environmental Economics", "Climate Policy"],
-    "tags": ["climate", "economics", "West-Africa", "BMBF", "fully-funded", "developing-countries"],
+    "field": [
+      "Climate Economics",
+      "Environmental Economics",
+      "Climate Policy"
+    ],
+    "tags": [
+      "climate",
+      "economics",
+      "West-Africa",
+      "BMBF",
+      "fully-funded",
+      "developing-countries"
+    ],
     "stipend": "Fully funded (German BMBF sponsorship)",
     "deadline": "",
     "deadline_type": "fixed",
@@ -742,8 +1086,20 @@
     "country": "Czech Republic",
     "flag": "🇨🇿",
     "region": "Europe",
-    "field": ["Economics", "Econometrics", "Macroeconomics", "Microeconomics"],
-    "tags": ["economics", "econometrics", "Czech-Republic", "fully-funded", "international", "top-program"],
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Macroeconomics",
+      "Microeconomics"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "Czech-Republic",
+      "fully-funded",
+      "international",
+      "top-program"
+    ],
     "stipend": "Fully funded (covers tuition + living stipend)",
     "deadline": "",
     "deadline_type": "annual",
@@ -765,8 +1121,20 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Data Science", "AI", "Decision Science", "Statistics"],
-    "tags": ["data-science", "AI", "genomics", "biomedical", "Italy", "fully-funded"],
+    "field": [
+      "Data Science",
+      "AI",
+      "Decision Science",
+      "Statistics"
+    ],
+    "tags": [
+      "data-science",
+      "AI",
+      "genomics",
+      "biomedical",
+      "Italy",
+      "fully-funded"
+    ],
     "stipend": "Fully funded scholarship + international research stay support",
     "deadline": "",
     "deadline_type": "rolling",
@@ -788,8 +1156,19 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Economics", "Finance", "Econometrics"],
-    "tags": ["economics", "finance", "econometrics", "Italy", "fully-funded", "international"],
+    "field": [
+      "Economics",
+      "Finance",
+      "Econometrics"
+    ],
+    "tags": [
+      "economics",
+      "finance",
+      "econometrics",
+      "Italy",
+      "fully-funded",
+      "international"
+    ],
     "stipend": "Fully funded, 4-year full-time program",
     "deadline": "2026-03-13",
     "deadline_type": "fixed",
@@ -811,8 +1190,19 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Economics", "Econometrics", "Political Economy"],
-    "tags": ["economics", "econometrics", "political-economy", "Italy", "fully-funded", "elite"],
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Political Economy"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "political-economy",
+      "Italy",
+      "fully-funded",
+      "elite"
+    ],
     "stipend": "Fully funded 4-year scholarships",
     "deadline": "",
     "deadline_type": "annual",
@@ -834,8 +1224,18 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Economics", "Econometrics", "Data Science"],
-    "tags": ["economics", "econometrics", "Italy", "PNRR-funded", "fully-funded"],
+    "field": [
+      "Economics",
+      "Econometrics",
+      "Data Science"
+    ],
+    "tags": [
+      "economics",
+      "econometrics",
+      "Italy",
+      "PNRR-funded",
+      "fully-funded"
+    ],
     "stipend": "Fully or partially funded (PNRR)",
     "deadline": "",
     "deadline_type": "annual",
@@ -857,8 +1257,19 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": ["Economics", "Finance", "Econometrics"],
-    "tags": ["economics", "finance", "econometrics", "UK", "QS-top-10", "fully-funded"],
+    "field": [
+      "Economics",
+      "Finance",
+      "Econometrics"
+    ],
+    "tags": [
+      "economics",
+      "finance",
+      "econometrics",
+      "UK",
+      "QS-top-10",
+      "fully-funded"
+    ],
     "stipend": "Fully-funded scholarships for all admitted students",
     "deadline": "2027-01-23",
     "deadline_type": "fixed",
@@ -880,8 +1291,19 @@
     "country": "Germany",
     "flag": "🇩🇪",
     "region": "Europe",
-    "field": ["Machine Learning", "AI", "Computer Science"],
-    "tags": ["machine-learning", "AI", "Germany", "fully-funded", "LMU", "TUM"],
+    "field": [
+      "Machine Learning",
+      "AI",
+      "Computer Science"
+    ],
+    "tags": [
+      "machine-learning",
+      "AI",
+      "Germany",
+      "fully-funded",
+      "LMU",
+      "TUM"
+    ],
     "stipend": "Fully funded (German TV-L E13 salary scale)",
     "deadline": "",
     "deadline_type": "annual",
@@ -903,8 +1325,20 @@
     "country": "Denmark",
     "flag": "🇩🇰",
     "region": "Europe",
-    "field": ["AI", "Machine Learning", "NLP", "Computer Science"],
-    "tags": ["AI", "LLM", "security", "interpretability", "Denmark", "fully-funded"],
+    "field": [
+      "AI",
+      "Machine Learning",
+      "NLP",
+      "Computer Science"
+    ],
+    "tags": [
+      "AI",
+      "LLM",
+      "security",
+      "interpretability",
+      "Denmark",
+      "fully-funded"
+    ],
     "stipend": "Danish PhD salary (~DKK 35,000/month)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -926,8 +1360,19 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "region": "Europe",
-    "field": ["Materials Science", "Energy Engineering", "Sustainability"],
-    "tags": ["materials-science", "energy", "sustainability", "UK", "QS-top-5", "fully-funded"],
+    "field": [
+      "Materials Science",
+      "Energy Engineering",
+      "Sustainability"
+    ],
+    "tags": [
+      "materials-science",
+      "energy",
+      "sustainability",
+      "UK",
+      "QS-top-5",
+      "fully-funded"
+    ],
     "stipend": "Fully funded studentships (covering fees + maintenance)",
     "deadline": "",
     "deadline_type": "annual",
@@ -949,8 +1394,19 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "region": "Europe",
-    "field": ["Energy Engineering", "Materials Science", "Sustainability"],
-    "tags": ["MSCA", "energy-storage", "sustainability", "Italy", "fully-funded", "Marie-Curie"],
+    "field": [
+      "Energy Engineering",
+      "Materials Science",
+      "Sustainability"
+    ],
+    "tags": [
+      "MSCA",
+      "energy-storage",
+      "sustainability",
+      "Italy",
+      "fully-funded",
+      "Marie-Curie"
+    ],
     "stipend": "MSCA salary (competitive European rate)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -972,8 +1428,19 @@
     "country": "Switzerland",
     "flag": "🇨🇭",
     "region": "Europe",
-    "field": ["Artificial Intelligence", "Management", "Information Systems"],
-    "tags": ["AI", "management", "information-systems", "Switzerland", "fully-funded", "interdisciplinary"],
+    "field": [
+      "Artificial Intelligence",
+      "Management",
+      "Information Systems"
+    ],
+    "tags": [
+      "AI",
+      "management",
+      "information-systems",
+      "Switzerland",
+      "fully-funded",
+      "interdisciplinary"
+    ],
     "stipend": "Swiss National Science Foundation (SNSF) funded salary",
     "deadline": "",
     "deadline_type": "rolling",
@@ -995,8 +1462,19 @@
     "country": "Canada",
     "flag": "🇨🇦",
     "region": "North America",
-    "field": ["Artificial Intelligence", "NLP", "Cybersecurity"],
-    "tags": ["AI", "NLP", "cybersecurity", "Canada", "fully-funded", "international"],
+    "field": [
+      "Artificial Intelligence",
+      "NLP",
+      "Cybersecurity"
+    ],
+    "tags": [
+      "AI",
+      "NLP",
+      "cybersecurity",
+      "Canada",
+      "fully-funded",
+      "international"
+    ],
     "stipend": "Fully funded (tuition + stipend)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -1018,8 +1496,19 @@
     "country": "Belgium",
     "flag": "🇧🇪",
     "region": "Europe",
-    "field": ["Civil Engineering", "Artificial Intelligence", "Renewable Energy"],
-    "tags": ["AI", "renewable-energy", "civil-engineering", "Belgium", "fully-funded", "multi-position"],
+    "field": [
+      "Civil Engineering",
+      "Artificial Intelligence",
+      "Renewable Energy"
+    ],
+    "tags": [
+      "AI",
+      "renewable-energy",
+      "civil-engineering",
+      "Belgium",
+      "fully-funded",
+      "multi-position"
+    ],
     "stipend": "Fully funded (Belgian PhD salary)",
     "deadline": "",
     "deadline_type": "rolling",
@@ -1033,5 +1522,234 @@
     "added_date": "2026-06-17",
     "source": "YouTube/PhD Opportunities",
     "qs_rank": null
+  },
+  {
+    "id": "bloomberg-ds-phd-fellowship-2026",
+    "title": "Bloomberg Data Science PhD Fellowship 2026-2027",
+    "university": "Bloomberg (Global Fellowship)",
+    "country": "Global",
+    "flag": "🌐",
+    "region": "North America",
+    "field": [
+      "Data Science",
+      "Big Data",
+      "Statistics"
+    ],
+    "tags": [
+      "data-science",
+      "bloomberg",
+      "fellowship",
+      "prestigious",
+      "global"
+    ],
+    "stipend": "Prestigious fellowship (details vary by host institution)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "The Bloomberg Data Science PhD Fellowship 2026-2027 is a prestigious global fellowship for exceptional PhD students pursuing data science research. Open to international students.",
+    "url": "https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science-phd-fellowship/",
+    "added_date": "2026-06-18",
+    "source": "OpportunitiesForYouth"
+  },
+  {
+    "id": "ut-austin-nlp-phd-2026",
+    "title": "PhD in Natural Language Processing (NLP) - Fall 2026",
+    "university": "University of Texas at Austin",
+    "country": "USA",
+    "flag": "🇺🇸",
+    "region": "North America",
+    "field": [
+      "Computer Science",
+      "NLP",
+      "Artificial Intelligence"
+    ],
+    "tags": [
+      "NLP",
+      "AI",
+      "USA",
+      "top-university",
+      "fully-funded"
+    ],
+    "stipend": "Full funding (tuition + stipend + health insurance)",
+    "deadline": "2026-12-15",
+    "deadline_type": "fixed",
+    "status": "open",
+    "supervisor": "",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "Fully funded PhD positions in Natural Language Processing at UT Austin for Fall 2026. UT Austin has one of the top NLP research groups in the US.",
+    "url": "https://www.cs.utexas.edu/grad/phd",
+    "added_date": "2026-06-18",
+    "source": "Facebook/phd.hub"
+  },
+  {
+    "id": "lancaster-ai-agent-security-2026",
+    "title": "8 Fully Funded PhD Positions in AI Agent Security",
+    "university": "Lancaster University",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "region": "Europe",
+    "field": [
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Computer Science"
+    ],
+    "tags": [
+      "AI",
+      "security",
+      "agents",
+      "UK",
+      "fully-funded",
+      "multi-position"
+    ],
+    "stipend": "Full studentship covering fees + stipend (3.5 years)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "Lancaster Security Centre (SCC) faculty",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "8 fully funded PhD positions in AI Agent Security at Lancaster University. A 3.5-year fully funded PhD studentship covering tuition and stipend.",
+    "url": "https://www.lancaster.ac.uk/scc/study/phd/phd-opportunities/",
+    "added_date": "2026-06-18",
+    "source": "Lancaster University"
+  },
+  {
+    "id": "trajects-energy-climate-phd-2026",
+    "title": "9 Fully Funded TRAJECTS PhD Scholarships in Energy, Climate and Sustainability",
+    "university": "TRAJECTS Network (Germany / South Africa / Colombia)",
+    "country": "Germany / South Africa / Colombia",
+    "flag": "🇩🇪🇿🇦🇨🇴",
+    "region": "Europe",
+    "field": [
+      "Energy Engineering",
+      "Climate Policy",
+      "Sustainability",
+      "Environmental Science"
+    ],
+    "tags": [
+      "energy-transition",
+      "climate",
+      "sustainability",
+      "just-transition",
+      "multi-country",
+      "fully-funded"
+    ],
+    "stipend": "Fully funded scholarships (4 years, Aug 2026 - Jul 2030)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "TRAJECTS network co-supervision",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "9 fully funded PhD scholarships under the Transnational Centre for Just Transitions in Energy, Climate and Sustainability (TRAJECTS). Host universities in Germany, South Africa, and Colombia.",
+    "url": "https://www.globalsouthopportunities.com/2026/04/06/trajects-2/",
+    "added_date": "2026-06-18",
+    "source": "GlobalSouthOpportunities"
+  },
+  {
+    "id": "padua-econ-mgmt-phd-2027",
+    "title": "PhD in Economics and Management (5 Scholarships)",
+    "university": "University of Padua",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "region": "Europe",
+    "field": [
+      "Economics",
+      "Management",
+      "Econometrics"
+    ],
+    "tags": [
+      "economics",
+      "management",
+      "Italy",
+      "EQUIS-accredited",
+      "fully-funded",
+      "international"
+    ],
+    "stipend": "Fully funded 4-year scholarships",
+    "deadline": "",
+    "deadline_type": "annual",
+    "status": "upcoming",
+    "supervisor": "Department of Economics and Management (dSEA) faculty",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "The Department of Economics and Management at the University of Padua offers 5 fully funded 4-year PhD scholarships (3 Economics + 2 Management). EQUIS-accredited department.",
+    "url": "https://www.economia.unipd.it/en/courses/home-courses/phd-programme-0",
+    "added_date": "2026-06-18",
+    "source": "TheEconomicMisfit"
+  },
+  {
+    "id": "verona-phd-scholarships-2026",
+    "title": "PhD Scholarships 2026 - All Subjects",
+    "university": "University of Verona",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "region": "Europe",
+    "field": [
+      "Economics",
+      "Data Science",
+      "Environmental Science"
+    ],
+    "tags": [
+      "Italy",
+      "fully-funded",
+      "international",
+      "multiple-fields"
+    ],
+    "stipend": "Fully funded scholarships (varies by program)",
+    "deadline": "",
+    "deadline_type": "annual",
+    "status": "upcoming",
+    "supervisor": "",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "University of Verona PhD Scholarships 2026 for international students. Fully funded positions available across multiple disciplines including Economics, Data Science, and Environmental subjects.",
+    "url": "https://www.scholarshipsads.com/search/country/italy-scholarships/degree/phd/",
+    "added_date": "2026-06-18",
+    "source": "ScholarshipsAds"
+  },
+  {
+    "id": "idos-fooddiverse-phd-2026",
+    "title": "Doctoral Researcher in Food Systems and Sustainability (FoodDiverse CRC)",
+    "university": "IDOS / University of Bonn / University of Ghana",
+    "country": "Germany / Ghana",
+    "flag": "🇩🇪🇬🇭",
+    "region": "Europe",
+    "field": [
+      "Sustainability",
+      "Environmental Economics",
+      "Food Systems",
+      "Development Policy"
+    ],
+    "tags": [
+      "sustainability",
+      "food-systems",
+      "development",
+      "Germany",
+      "DFG-funded",
+      "interdisciplinary"
+    ],
+    "stipend": "Fully funded (DFG CRC 1780 position)",
+    "deadline": "",
+    "deadline_type": "rolling",
+    "status": "open",
+    "supervisor": "IDOS / FoodDiverse CRC faculty",
+    "language_req": "English",
+    "other_language_required": false,
+    "other_language_note": "",
+    "description": "Fully funded Doctoral Researcher position at IDOS, part of the DFG-funded FoodDiverse CRC with University of Bonn and University of Ghana. Research on sustainable food systems, nutrition, and development policy. Start Oct 2026.",
+    "url": "https://opportunitiesforyouth.org/2026/05/29/phd-opportunity-doctoral/",
+    "added_date": "2026-06-18",
+    "source": "OpportunitiesForYouth"
   }
 ]
